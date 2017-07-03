@@ -1,0 +1,16 @@
+this
+is
+an
+example
+lex
+file
+we
+are
+using
+it
+to
+create
+a
+binary
+search
+tree
